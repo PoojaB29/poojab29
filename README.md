@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojab29&label=Profile%20views&color=0e75b6&style=flat" alt="poojab29" /> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://poojab29.github.io/](https://poojab29.github.io/)
 
